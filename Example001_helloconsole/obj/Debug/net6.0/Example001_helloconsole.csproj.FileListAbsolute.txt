@@ -1,0 +1,15 @@
+/Users/aleksey/Documents/3 курс/лекция/examples/Example001_helloconsole/bin/Debug/net6.0/Example001_helloconsole
+/Users/aleksey/Documents/3 курс/лекция/examples/Example001_helloconsole/bin/Debug/net6.0/Example001_helloconsole.deps.json
+/Users/aleksey/Documents/3 курс/лекция/examples/Example001_helloconsole/bin/Debug/net6.0/Example001_helloconsole.runtimeconfig.json
+/Users/aleksey/Documents/3 курс/лекция/examples/Example001_helloconsole/bin/Debug/net6.0/Example001_helloconsole.dll
+/Users/aleksey/Documents/3 курс/лекция/examples/Example001_helloconsole/bin/Debug/net6.0/Example001_helloconsole.pdb
+/Users/aleksey/Documents/3 курс/лекция/examples/Example001_helloconsole/obj/Debug/net6.0/Example001_helloconsole.csproj.AssemblyReference.cache
+/Users/aleksey/Documents/3 курс/лекция/examples/Example001_helloconsole/obj/Debug/net6.0/Example001_helloconsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksey/Documents/3 курс/лекция/examples/Example001_helloconsole/obj/Debug/net6.0/Example001_helloconsole.AssemblyInfoInputs.cache
+/Users/aleksey/Documents/3 курс/лекция/examples/Example001_helloconsole/obj/Debug/net6.0/Example001_helloconsole.AssemblyInfo.cs
+/Users/aleksey/Documents/3 курс/лекция/examples/Example001_helloconsole/obj/Debug/net6.0/Example001_helloconsole.csproj.CoreCompileInputs.cache
+/Users/aleksey/Documents/3 курс/лекция/examples/Example001_helloconsole/obj/Debug/net6.0/Example001_helloconsole.dll
+/Users/aleksey/Documents/3 курс/лекция/examples/Example001_helloconsole/obj/Debug/net6.0/refint/Example001_helloconsole.dll
+/Users/aleksey/Documents/3 курс/лекция/examples/Example001_helloconsole/obj/Debug/net6.0/Example001_helloconsole.pdb
+/Users/aleksey/Documents/3 курс/лекция/examples/Example001_helloconsole/obj/Debug/net6.0/Example001_helloconsole.genruntimeconfig.cache
+/Users/aleksey/Documents/3 курс/лекция/examples/Example001_helloconsole/obj/Debug/net6.0/ref/Example001_helloconsole.dll
